@@ -17,7 +17,7 @@ DNS-Scanner is a Python script to scan DNS information for a given website using
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/DNS-Scanner.git
+   git clone https://github.com/adit624/DNS-Scanner.git
    ```
 2. Navigate to the script:
    ```bash
